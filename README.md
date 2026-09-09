@@ -273,7 +273,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Typeracer](https://play.typeracer.com/): Increase your typing speed while racing against others.
 - [Typerush](https://www.typerush.com/): Increase typing speed while racing.
 - [IT-Tools](https://it-tools.tech/): Collection of handy online tools for developers.
-
+- [Plexto](https://plexto.tools/): 251+ free online tools for developers — JSON formatters, regex testers, hash generators, converters, and more, no signup required.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
